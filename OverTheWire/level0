@@ -1,3 +1,8 @@
 # ssh -p 2220 bandit0@bandit.labs.overthewire.org (it doesn't work)
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 I need to study more about ssh.
+
+
+#password for level 1
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+

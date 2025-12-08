@@ -1,0 +1,3 @@
+# ssh -p 2220 bandit0@bandit.labs.overthewire.org (it doesn't work)
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+I need to study more about ssh.

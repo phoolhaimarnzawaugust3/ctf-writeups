@@ -6,3 +6,14 @@ I need to study more about ssh.
 #password for level 1
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
+#level 2
+cat -- - : linux interprets it as directive to read from stdin(standard input) rather then from a file
+cat ./ -  : path to the filename
+password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+
+#level 3
+filename:  --spaces in this filename--
+cat ./--spaces\ in\ this\ filename--
+cat -- --spaces\ in\ this\ filename--
+password: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
